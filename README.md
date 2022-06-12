@@ -1,6 +1,6 @@
 👋 Hi, I’m Patrick Deniso! 
 
-💻 Full stack software developer that also likes to play around with games development and other fun stuff in computer science.
+💻 Full stack software developer that also likes to play around with game development and other fun stuff in computer science.
 
 [website](http://patrickdeniso.me/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
 
