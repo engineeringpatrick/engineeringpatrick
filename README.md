@@ -1,4 +1,4 @@
-👋 Hi, I’m Patrick Deniso! 
+### 👋 Hey, I’m Patrick! 
 
 💻 Full stack software developer that also likes to play around with game development and other fun stuff in computer science.
 
