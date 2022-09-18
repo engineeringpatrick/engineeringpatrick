@@ -4,5 +4,4 @@
 
 [website](http://patrickdeniso.me/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebigpaff)](https://github.com/anuraghazra/github-readme-stats)
