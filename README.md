@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hey, I’m Patrick! </h1>
 <img align="right" alt="Coding" width="400" src="https://ardas-it.com/uploads/images/blogs/giph.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/C++/Sakurajima_Mai_Holding_The_C++_Programming_Language.jpg?raw=true">
 
 - 💻 I'm a Full Stack Software Developer that likes to play around with game development and other fun stuff in engineering too.
 - 📚 I'm also a 2nd year Computer Science student @ Concordia University.
