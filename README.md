@@ -4,7 +4,7 @@
 
 - 💻 I'm a Full Stack Software Developer that likes to play around with game development and other fun stuff in engineering too.
 - 👨‍💻 My current interests are full stack development with JS/TS and low-level engineering with C++.
-- 📚 I'm a 2nd year Computer Science student @ Concordia University.
+- 📚 I'm a 3rd year Computer Science student @ Concordia University.
 
 [website](http://patrickdeniso.me/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
 
