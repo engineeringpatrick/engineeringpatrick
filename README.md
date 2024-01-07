@@ -3,7 +3,7 @@
 
 
 - 💻 I'm a software engineer that likes to play around with game development and other fun stuff in engineering too.
-- 👨‍💻 My current interests are full stack development with JS/TS and low-level engineering with C++/Rust.
+- 👨‍💻 My current interests are full stack development with Typescript (all frameworks welcome) and low-level engineering with C++/Rust.
 - 📚 I'm a 3rd year Computer Science student @ Concordia University.
 
 [website](http://patrickdeniso.me/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
