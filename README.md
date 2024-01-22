@@ -8,4 +8,4 @@
 
 [website](http://patrickdeniso.me/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thebigpaff&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineeringpatrick&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
