@@ -6,6 +6,6 @@
 - 👨‍💻 My current interests are full stack development with Typescript (all frameworks welcome) and low-level engineering with C++/Rust.
 - 📚 I'm a 3rd year Computer Science student @ Concordia University.
 
-[website](http://patrickdeniso.me/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
+[website](https://patrickdeniso.dev/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=engineeringpatrick&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
