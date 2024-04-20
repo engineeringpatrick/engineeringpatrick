@@ -5,7 +5,6 @@
 - 💻 I'm a software engineer interested by the intricacies of data-intensive distributed systems. 
 - 👨‍💻 I have full stack & infra experience with Typescript/Rails, now trying to learn my way under the hood with C++/Rust.
 - 🏢 I'm currently building reliable API infrastructure @ Wealthsimple. Previously full stack developer on the trading floor @ National Bank, and before then a backend dev @ Intact.
-- 📚 I'm a 3rd year Computer Science student @ Concordia University.
 
 [website](https://patrickdeniso.dev/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
 
