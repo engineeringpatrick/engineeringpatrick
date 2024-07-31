@@ -2,7 +2,10 @@
 
 - 💻 I'm a software engineer interested by the intricacies of data-intensive distributed systems. 
 - 👨‍💻 I have full stack & infra experience with Typescript/Rails, now trying to learn my way under the hood with C++/Rust.
-- 🏢 I'm currently building reliable API infrastructure @ Wealthsimple. <br>Previously full stack developer on the trading floor @ National Bank, and before then a backend dev @ Intact.
+- 🏢 I've worked in a couple of places so far:
+  - **Winter 2024** Built reliable API infrastructure (Typescript, Rails, Postgres) @ **Wealthsimple**.
+  - **Fall 2023** Developed tools on the trading floor (Typescript, Flask, Postgres) @ **National Bank Financial Markets**
+  - **Summer 2023** Worked on data feeds systems (Java Spring, MongoDB) @ **Intact**.
 
 [website](https://patrickdeniso.dev/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
 
