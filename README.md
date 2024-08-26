@@ -4,7 +4,7 @@
 - 👨‍💻 I have full stack & infra experience with Typescript/Rails, now trying to learn my way under the hood with C++/Rust.
 - 🏢 I've worked in a couple of places so far:
   - **Winter 2024** Built reliable API infrastructure (Typescript, Rails, Postgres) @ **Wealthsimple**.
-  - **Fall 2023** Developed tools on the trading floor (Typescript, Flask, Postgres) @ **National Bank Financial Markets**
+  - **Fall 2023** Developed tools on the trading floor (Typescript + Angular, Flask, Postgres) @ **National Bank Financial Markets**
   - **Summer 2023** Worked on data feeds systems (Java Spring, MongoDB) @ **Intact**.
 
 [website](https://patrickdeniso.dev/) | [linkedin](https://www.linkedin.com/in/patrick-deniso/)
